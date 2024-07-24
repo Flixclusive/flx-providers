@@ -2,7 +2,7 @@
 #### List of available providers:
 | Name          | Status    |
 | :-----------  | :-------  |
+| Stremio | 🟢 OK |
 | SuperStream | 🟢 OK |
 | Sudo-Flix | 🟢 OK |
-| Stremio | 🟢 OK |
 | FlixHQ | 🟡 MAINTENANCE |
